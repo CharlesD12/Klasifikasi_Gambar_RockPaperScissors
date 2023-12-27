@@ -1,6 +1,6 @@
 # Klasifikasi_Gambar_RockPaperScissors
 
-Proyek yang telah saya kerjakan ini merupakan model machine learning sederhana untuk mengidentifikasi gambar rock paper scissors. Model ini menggunakan jaringan saraf tiruan (neural network) dengan arsitektur Sequential. Arsitektur ini terdiri dari dua lapisan Dense. Lapisan pertama memiliki 16 neuron dengan aktivasi relu. Lapisan kedua memiliki 3 neuron dengan aktivasi softmax.
+Proyek yang telah saya kerjakan ini merupakan model machine learning sederhana untuk mengidentifikasi gambar rock,paper,scissors. Model ini menggunakan jaringan saraf tiruan (neural network) dengan arsitektur Sequential. Arsitektur ini terdiri dari dua lapisan Dense. Lapisan pertama memiliki 16 neuron dengan aktivasi relu. Lapisan kedua memiliki 3 neuron dengan aktivasi softmax.
 
 Penjelasan Kode :
 
